@@ -51,15 +51,15 @@ handle_installation() {
     if [ "$os_type" == "debian" ]; then
         case $system_version in
             1)
-                file_url_1="https://ghfast.top/https://raw.githubusercontent.com/qljsyph/DPInfo-script/refs/heads/main/sysinfo/00-debian-heads"
+                file_url_1="https://ghfast.top/https://github.com/yeqiu233/DPInfo-script/blob/main/sysinfo/00-debian-heads"
                 file_url_2="https://ghfast.top/https://raw.githubusercontent.com/qljsyph/DPInfo-script/refs/heads/main/sysinfo/20-debian-sysinfo"
                 ;;
             2)
-                file_url_1="https://ghfast.top/https://raw.githubusercontent.com/qljsyph/DPInfo-script/refs/heads/main/sysinfo/00-debian-heads"
+                file_url_1="https://ghfast.top/https://github.com/yeqiu233/DPInfo-script/blob/main/sysinfo/00-debian-heads"
                 file_url_2="https://ghfast.top/https://raw.githubusercontent.com/qljsyph/DPInfo-script/refs/heads/main/sysinfo/20-debian-sysinfo2"
                 ;;
             3)
-                file_url_1="https://ghfast.top/https://raw.githubusercontent.com/qljsyph/DPInfo-script/refs/heads/main/sysinfo/00-debian-heads"
+                file_url_1="https://ghfast.top/https://github.com/yeqiu233/DPInfo-script/blob/main/sysinfo/00-debian-heads"
                 file_url_2="https://ghfast.top/https://raw.githubusercontent.com/qljsyph/DPInfo-script/refs/heads/main/sysinfo/20-debian-sysinfo3"
                 ;;
             *)
